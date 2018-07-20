@@ -4684,3 +4684,17 @@ export const persons = [
     }
   },
 ];
+{
+    id: 144,
+    name: "Eliot Tipton",
+    img: "https://i.imgur.com/XASnGfG.jpg",
+    links: {
+      linkedin: "https://www.linkedin.com/in/eliot-tipton-44a6673b/",
+      github: "https://github.com/ektipton99/"
+    },
+    jobTitle: "Front-End Developer",
+    location: {
+      city: "Denver",
+      state: "Colorado",
+    }
+  },
